@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Mob of Springport"
-date:   2022-02-16 18:35:00 +0100
+date:   2022-02-01 18:35:00 +0100
 categories: story recap
 ---
 The group managed to get back to **The Spire** and present the strange stone to **Rune** and the mysterious **Folwin**. After some discussion and studying, **Rune** disclosed to the group that the stone they found was indeed one of the missing runes they've been set out to find. **Rune** also said that the rune could give certain advantages to its holder. While the adventurers was out slaughtering **Blacktusks**, **Rune** and **Folwin** actually found clues where the next rune could be located. **Folwin** told the group about **Hath'Nakar**, the home of an ancient wizard who was tricked by Bane to sacrifice children and now roam the windy desert city with his undead minions destined to forever protect the next rune. To go there, the group needs to travel north to the desert lands and the only way to reach the sandy shores is to set sail once again on the vast sea. This means that the only place they know of that currently has a lot of boats is **Springport**. So after saying goodbye to **Rune**, **Folwin** and the rest of the big city, the group ventured back to what once was their starting point on this side of the continent. 
