@@ -30,7 +30,8 @@ baseurl: /aranuirs-shadow/      # place folder name if the site is served in a s
 
 
 # Build settings
-theme: minima
+remote_theme: daattali/beautiful-jekyll@5.0.0
+#theme: minima
 plugins:
   - jekyll-feed
 
