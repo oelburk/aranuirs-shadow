@@ -3,6 +3,7 @@ layout: post
 title:  "Dead, undead, death?"
 date:   2022-05-17 18:40:00 +0100
 categories: story recap
+cover-img: "assets/img/ta-bhat.jpg"
 ---
 Its been a minute since we last heard from our party of adventurers. Since we last followed their steps they were about to provide water to **Von Bin** and his crew on **Laguna Matata**. Our heroes managed to find lots of water and a strange teleport which seemed to move undead to and from the mysterious island. Unscathed our heroes managed to find their way back with a full barrel of sweet tasting water to **Von Bin**. 
 
